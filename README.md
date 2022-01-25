@@ -4,7 +4,7 @@ ML classification problem as a part of IITPKD Techfest [Petrichor](https://www.p
 
 <!-- Open in colab -->
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IITP-KD/ML-Classification-Problem/blob/master/ML063_classification_Adarsh.ipynb)
+<!-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/IITP-KD/ML-Regression-Problem/blob/master/ML063_regression_Adarsh.ipynb) -->
 
 ## Authors
 
